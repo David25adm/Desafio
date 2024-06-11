@@ -21,7 +21,7 @@ nav{
 }
 a{
  text-decoration: none;
- color: lime;
+ color: rgb(21, 255, 0);
 }
 a:hover{
   border-bottom: 4px solid black;
